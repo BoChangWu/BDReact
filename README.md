@@ -1,3 +1,5 @@
+# 說明
+只要在啟動後將csv檔(目錄中有範本)拖曳到指定位就可以看到資料,亦可透過選單選擇想要看到的資料
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
